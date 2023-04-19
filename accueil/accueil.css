@@ -1,0 +1,92 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+.NavSGBF{
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  gap: 100px;
+}
+.TextSgb{
+  font-size: 20px;
+  width: 100%;
+}
+.BoutonAcces{
+    width: 300px;
+    height: 50px;
+    border: none;
+    padding: 8px 18px 8px 18px;
+    text-transform: uppercase;
+    font-size: 1.1em;
+    background: #e9041e;
+    color: white;
+    display: flex;
+    gap: 10px;
+   
+  }
+
+.cadenas{
+    
+    width: 20px;
+}
+
+.imgCont{
+    width: 300px;
+}
+.sgnavbar{
+display: flex;
+gap: 200px;
+margin: 30px;
+}
+hr{
+    bottom: -1.76rem;
+    height: 0.8rem;
+    background-color: #e9041e;
+    transform: translateX(0.784128rem);
+    width: 190.505px;
+
+}
+.BoutonAcces1{
+    width: 100px;
+    height: 50px;
+
+    border: none;
+    padding: 8px 18px 8px 18px;
+    text-transform: uppercase;
+    font-size: 1.1em;
+    background: #e9041e;
+    color: white;
+    display: flex;
+    gap: 10px;
+   
+  }
+  .SeConnect{
+    margin-top: 60px;
+  }
+  .MartineBanse{
+    background-color: #e9041e;
+    
+  }
+  .MartineBanse h5 a{
+    text-decoration: none;
+  }
+  body{
+    opacity: 50px;
+  }
+  .BanséG{
+    gap: 20px;
+  }
+.SvgCurence{
+width: 275px;
+height: 300px;
+background-color: #f6f7f8;
+}
+.SvgCurreceContain{
+    display: flex;
+    justify-content: space-between;
+}
+.SvgCurenInp{
+    width: 500px;
+}
